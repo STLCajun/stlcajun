@@ -1,4 +1,4 @@
-### Hi there, I'm Luther - aka [STLCajun](website) 👋
+### Hi there, I'm Luther - aka [STLCajun][website] 👋
 
 [![Website](https://img.shields.io/website?label=lutherlowry.com&style=for-the-badge&url=https://lutherlowry.com)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/STLCajun?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSTLCajun&screen_name=STLCajun)
