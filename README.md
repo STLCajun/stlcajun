@@ -41,7 +41,6 @@
 <br />
 <br />
 
----
 [website]: https://lutherlowry.com
 [twitter]: https://twitter.com/STLCajun
 [youtube]: https://youtube.com/STLCajun
