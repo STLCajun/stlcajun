@@ -1,6 +1,6 @@
 ### Hi there, I'm Luther - aka [STLCajun](www.lutherlowry.com) 👋
 
-[![Website](https://img.shields.io/website?label=lutherlowry.com&style=for-the-badge&url=www.lutherlowry.com)](website)
+[![Website](https://img.shields.io/website?label=lutherlowry.com&style=for-the-badge&url=www.lutherlowry.com)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/STLCajun?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSTLCajun&screen_name=STLCajun)
 
 ## I'm a Husband, Developer, Artist and Writer!
