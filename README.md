@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on secret projects for my dayjob!
 - 🌱 I’m currently learning Unity Development 🤣
 - 👯 I’m looking to collaborate with other developers on interesting projects
-- 🥅 2020 Goals: Get at least one personal project completed.
+- 🥅 2023 Goals: Get at least one personal project completed.
 - ⚡ Fun fact: I love to draw and write (though I'm not very good at either - but I keep practicing.)
 
 ### Connect with me:
